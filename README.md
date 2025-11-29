@@ -34,8 +34,4 @@ Fokus membuat aplikasi web modern dengan tampilan bersih dan struktur kode yang 
 
 ---
 
-###  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agusdputraa&show_icons=true&theme=dark)
-
----
